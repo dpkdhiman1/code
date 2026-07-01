@@ -1,0 +1,9 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Simple CI/CD test app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
